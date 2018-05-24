@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import CheckableInput from './checkable_form_input';
+import CheckableInput from './checkableFormInput';
 
 class Sort extends Component {
 

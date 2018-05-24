@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import _ from 'lodash';
-import SearchBar from './components/search_bar';
-import MoviesList from './components/movie_list';
+import SearchBar from './components/searchBar';
+import MoviesList from './components/movieList';
 import axios from "axios";
 
 class App extends Component {
